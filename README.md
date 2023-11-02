@@ -56,3 +56,5 @@ git config --list 엔터
 ```
 9. git push origin master 입력
 ```
+
+// 여기까지하면 깃허브의 폴더에 자료가 올라간다
